@@ -10,22 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ag-grid-community/client-side-row-model": "^31.3.2",
-    "@ag-grid-community/core": "^31.3.2",
-    "@ag-grid-community/react": "^31.3.2",
-    "@ag-grid-enterprise/row-grouping": "^31.3.2",
-    "@babel/runtime": "^7.13.10",
-    "@chakra-ui/icons": "^2.1.1",
-    "@chakra-ui/react": "^2.8.2",
-    "ag-grid-community": "^33.2.3",
-    "history": "^5.3.0",
-    "layout-modified": "^0.0.12",
-    "postal": "^2.0.6",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-icons": "^5.2.1",
-    "uuid": "^10.0.0",
-    "zustand": "^4.5.2"
+    "ag-grid-react": "^33.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@chakra-ui/react": "^2.10.4",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "framer-motion": "^11.18.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
